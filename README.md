@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm unknowntxnds</h1>
-<h3 align="center">A passionate full-stack & mobile developer from Earth 🌍</h3>
+<h3 align="center">Enjoying code while having a coffee ☕</h3>
 
 ---
 
