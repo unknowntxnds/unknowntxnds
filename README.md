@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## ⏱️ Weekly Coding Stats
 
-![GitHub Stats](https://github-readme-stats-six-ruby-38.vercel.app/api?username=unknowntxnds&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats-six-ruby-38.vercel.app/api/top-langs/?username=unknowntxnds&layout=compact&theme=radical&count_private=true)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
