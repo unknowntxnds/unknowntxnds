@@ -25,10 +25,9 @@
 
 <p align="center">
   <a href="https://m.me/mrtxnds" target="_blank" title="Message me on Messenger">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Messenger" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Facebook_Messenger_4_Logo.svg" height="40" alt="Messenger" />
   </a>
 </p>
-
 
 <!--
 ### 📊 GitHub Stats 
