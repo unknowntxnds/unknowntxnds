@@ -6,10 +6,10 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **Flutter apps and Laravel-based APIs**
-- 🌱 I’m currently learning **AI, advanced Firebase, and system architecture**
-- 💬 Ask me about **Flutter, Node.js, Laravel, or anything web/mobile dev**
-- 📫 How to reach me: **unknowntxnds@example.com** (replace this with your real contact)
-- ⚡ Fun fact: *I can write backend and frontend in the same sitting without coffee ☕*
+- 🌱 I’m currently learning **AI, Firebase, and System Architecture**
+- 💬 Ask me about **Flutter, Laravel, or anything web/mobile dev**
+- 📫 How to reach me: **joshuafeliciano.tandoy@gmail.com**
+- ⚡ Fun fact: *I can write backend and frontend in the same sitting while having a coffee ☕*
 
 ---
 
@@ -37,10 +37,11 @@
 ---
 
 ### 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats-six-ruby-38.vercel.app/api/top-langs/?username=unknowntxnds&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
 </p>
+--!>
 
 ---
 
