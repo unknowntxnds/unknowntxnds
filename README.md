@@ -10,8 +10,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VB.NET](https://img.shields.io/badge/VB.NET-68217A?style=for-the-badge&logo=visual-basic&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)>
 
-![Top Langs](https://github-readme-stats-six-ruby-38.vercel.app/api/top-langs/?username=unknowntxnds&layout=compact&theme=radical&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats-six-ruby-38.vercel.app/api/top-langs/?username=unknowntxnds&layout=compact&theme=radical&count_private=true) --!>
 <!--
 **unknowntxnds/unknowntxnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
