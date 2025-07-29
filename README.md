@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm unknowntxnds</h1>
+<h1 align="center">Hi there 👋, I'm Tands</h1>
 <h3 align="center">Enjoying code while having a coffee ☕</h3>
 
 ---
