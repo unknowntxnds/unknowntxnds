@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 - 🔭 I’m currently working on **Flutter apps and Laravel-based APIs**
-- 🌱 I’m currently learning **Firebase, and System Architecture**
+- 🌱 I’m currently learning **Node, and System Architecture**
 - 💬 Ask me about **Flutter, Laravel, or anything web/mobile dev**
 - 📫 How to reach me: **joshuafeliciano.tandoy@gmail.com**
 - ⚡ Fun fact: *I can write backend and frontend in the same sitting while having a coffee ☕*
