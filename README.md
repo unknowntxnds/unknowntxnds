@@ -36,14 +36,6 @@
 
 ---
 
-<!-- ### 📊 GitHub Stats --!>
-<!--
-<p align="center">
-  <img src="https://github-readme-stats-six-ruby-38.vercel.app/api/top-langs/?username=unknowntxnds&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
-</p>
---!>
-
-
 ### 📫 Connect with Me
 
 <p align="center">
@@ -53,6 +45,11 @@
 </p>
 
 <!--
-**unknowntxnds/unknowntxnds** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats 
+<!--
+<p align="center">
+  <img src="https://github-readme-stats-six-ruby-38.vercel.app/api/top-langs/?username=unknowntxnds&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
+</p>
+--!>
 -->
 
