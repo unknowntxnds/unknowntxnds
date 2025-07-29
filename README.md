@@ -32,6 +32,10 @@
   <!-- Optional: VB.NET is not in Devicon, you can use a custom image or remove -->
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,js,nodejs,python,php,laravel,npm,tailwind,bootstrap,css,html,firebase,mysql" />
+</div>
+
 ---
 
 ### 📫 Connect with Me
