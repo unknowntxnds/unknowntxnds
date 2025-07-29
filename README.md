@@ -24,8 +24,11 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://m.me/mrtxnds"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
+  <a href="https://m.me/mrtxnds" target="_blank" title="Message me on Messenger">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Messenger" />
+  </a>
 </p>
+
 
 <!--
 ### 📊 GitHub Stats 
