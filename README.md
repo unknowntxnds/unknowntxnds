@@ -4,7 +4,6 @@
 ---
 
 ### 🧠 About Me
-
 - 🔭 I’m currently working on **Flutter apps and Laravel-based APIs**
 - 🌱 I’m currently learning **AI, Firebase, and System Architecture**
 - 💬 Ask me about **Flutter, Laravel, or anything web/mobile dev**
@@ -14,7 +13,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,js,nodejs,python,dotnet,php,laravel,npm,tailwind,bootstrap,css,html,firebase,mysql" />
 </div>
@@ -22,11 +20,8 @@
 ---
 
 ### 📫 Connect with Me
-
 <p align="center">
-  <a href="https://m.me/mrtxnds" target="_blank" title="Message me on Messenger">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Facebook_Messenger_4_Logo.svg" height="40" alt="Messenger" />
-  </a>
+  <a href="https://m.me/mrtxnds"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
 </p>
 
 <!--
