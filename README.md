@@ -1,5 +1,3 @@
-
-<!-- ![Top Langs](https://github-readme-stats-six-ruby-38.vercel.app/api/top-langs/?username=unknowntxnds&layout=compact&theme=radical&count_private=true) --!>
 <h1 align="center">Hi there 👋, I'm unknowntxnds</h1>
 <h3 align="center">A passionate full-stack & mobile developer from Earth 🌍</h3>
 
