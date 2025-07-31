@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,js,nodejs,python,dotnet,php,laravel,express,tailwind,bootstrap,css,html,firebase,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=flutter,js,nodejs,express,react,python,dotnet,php,laravel,tailwind,bootstrap,css,html,firebase,mysql" />
 </div>
 
 ---
